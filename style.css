@@ -6,3 +6,34 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+
+.header {
+    background-color:#1F2937;
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 24px;
+  color: #f9faf8;
+  display: flex;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.nav ul {
+    display: flex;
+    list-style-type: none;
+    gap: 2rem;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
