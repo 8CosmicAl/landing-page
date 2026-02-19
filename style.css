@@ -37,3 +37,36 @@ body {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+.hero {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 4rem 3rem;
+}
+
+.hero-content {
+    max-width: 40%;
+}
+
+.hero h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-subtext {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.hero button {
+    background-color: #3882F6;
+    color: #f9faf8;
+    border: none;
+}
+
+.hero-image .image-placeholder {
+    display: flex;
+}
