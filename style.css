@@ -94,6 +94,13 @@ main {
     cursor: pointer;
 }
 
-.hero-image .image-placeholder {
+.image-placeholder {
     display: flex;
+    width: 480px;
+    height: 220px;
+    background-color: #6B7280;
+    color:#f9faf8;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
 }
