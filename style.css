@@ -165,3 +165,38 @@ blockquote footer {
     font-weight: 700;
     font-size: 18px;
 }
+
+.call-to-action {
+    padding: 5rem 0;
+}
+
+.cta-content {
+    background-color: #3882F6;
+    color: #f9faf8;
+    padding: 3rem 4rem;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3rem;
+}
+
+.cta-text h3 {
+    font-size: 24px;
+    margin-bottom: 0.25rem;
+}
+
+.cta-text p {
+    font-size: 18px;
+}
+
+.secondary-btn {
+    background: transparent;
+    border: 2px solid white;
+    cursor: pointer;
+    padding: 10px 36px;
+    border-radius: 6px;
+    font-weight: 700;
+    color: #f9faf8;
+    font-size: 18px;
+}
