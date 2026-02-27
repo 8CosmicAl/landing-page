@@ -27,12 +27,13 @@ main {
 
 .header {
     background-color:#1F2937;
-    padding: 1rem 3rem;
+    padding: 1rem 0;
+}
+
+.header-inner {
     display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .logo {
