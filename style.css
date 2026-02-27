@@ -200,3 +200,10 @@ blockquote footer {
     color: #f9faf8;
     font-size: 18px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 2rem 0;
+}
