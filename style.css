@@ -84,10 +84,14 @@ main {
     line-height: 1.4;
 }
 
-.hero button {
+.primary-btn {
     background-color: #3882F6;
     color: #f9faf8;
     border: none;
+    padding: 10px 36px;
+    border-radius: 6px;
+    font-weight: 700;
+    cursor: pointer;
 }
 
 .hero-image .image-placeholder {
